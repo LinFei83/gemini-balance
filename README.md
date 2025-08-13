@@ -40,6 +40,9 @@ app/
 ├── templates/    # HTML 模板 (如 Key 状态页)
 ├── utils/        # 工具函数
 ```
+</details>
+
+---
 
 ## ✨ 功能亮点
 
@@ -265,7 +268,27 @@ app/
 
 [![Star History Chart](https://api.star-history.com/svg?repos=snailyp/gemini-balance&type=Date)](https://star-history.com/#snailyp/gemini-balance&Date)
 
-## 💖 友情项目
+## 🎉 Special Thanks
+
+*   [PicGo](https://www.picgo.net/)
+*   [SM.MS](https://smms.app/)
+*   [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+
+## 🙏 Our Supporters
+
+A special shout-out to [DigitalOcean](https://m.do.co/c/b249dd7f3b4c) for providing the rock-solid and dependable cloud infrastructure that keeps this project humming!
+
+<a href="https://m.do.co/c/b249dd7f3b4c">
+  <img src="files/dataocean.svg" alt="DigitalOcean Logo" width="200"/>
+</a>
+
+CDN acceleration and security protection for this project are sponsored by [Tencent EdgeOne](https://edgeone.ai/?from=github).
+
+<a href="https://edgeone.ai/?from=github">
+  <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="EdgeOne Logo" width="200"/>
+</a>
+
+## 💖 Friendly Projects
 
 * **[OneLine](https://github.com/chengtx809/OneLine)** by [chengtx809](https://github.com/chengtx809) - OneLine一线：AI驱动的热点事件时间轴生成工具
 
